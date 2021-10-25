@@ -1,4 +1,4 @@
-# [Posture Classification using Neural Networks](https://github.com/drewm8080/Posture-Classification-Models)
+## [Posture Classification using Neural Networks](https://github.com/drewm8080/Posture-Classification-Models)
 
 In this project, we analyzed the posture of hospital patients in pictures to see if the patients were sitting, standing, or lying. We used the following convolutional neural networks to identify the posture of the patient.
 
